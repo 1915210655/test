@@ -1,3 +1,3 @@
 <?php
-echo 'Hello gitHub';
-echo 'Thank you git';
+echo 'cyc is very good';
+echo 'Thank you xj';
