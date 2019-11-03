@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>cyc is good</h1>
+    <h1>Welcome to cyc website Thanyou you </h1>
     <hr>
-    <h2>Thank you 向军大叔</h2>
 </body>
 </html>
